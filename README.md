@@ -1,5 +1,6 @@
 # You Don't Know JS Yet (book series) - 2nd Edition
 sources：https://github.com/getify/You-Dont-Know-JS
+
 This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 **To read more about the motivations and perspective behind this book series, check out the [Preface](preface.md).**
